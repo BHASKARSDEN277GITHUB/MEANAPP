@@ -1,5 +1,5 @@
-This is test of MEAN stack.
-*Mongo DB
-*ExpressJS
-*AngularJS
-*NodeJS
+This is test of MEAN stack.<br>
+*Mongo DB<br>
+*ExpressJS<br>
+*AngularJS<br>
+*NodeJS<br>
